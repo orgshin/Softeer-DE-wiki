@@ -1,0 +1,474 @@
+2025-Jul-09-18-15-57, ETL Process Started
+2025-Jul-09-18-15-57, Extract phase Started
+2025-Jul-09-18-15-59, Extract phase Ended
+2025-Jul-09-18-15-59, Transform phase Started
+2025-Jul-09-18-15-59, Transform phase Ended
+2025-Jul-09-18-15-59, Load phase Started
+2025-Jul-09-18-15-59, Load phase Ended
+2025-Jul-09-18-15-59, Displaying Output Started
+2025-Jul-09-18-15-59, Displaying Output Ended
+2025-Jul-09-18-15-59, ETL Process Completed
+2025-Jul-09-18-19-15, ETL Process Started
+2025-Jul-09-18-19-15, Extract phase Started
+2025-Jul-09-18-19-15, Extract phase Ended
+2025-Jul-09-18-19-15, Transform phase Started
+2025-Jul-09-18-19-15, Transform phase Ended
+2025-Jul-09-18-19-15, JSON Load phase Started
+2025-Jul-09-18-19-15, JSON Load phase Ended
+2025-Jul-09-18-19-15, DB Load phase Started
+2025-Jul-09-18-19-15, DB Load phase Ended
+2025-Jul-09-18-19-15, SQL Query phase Started
+2025-Jul-09-18-19-15, SQL Query phase Ended
+2025-Jul-09-18-19-15, Region-based Extract phase Started
+2025-Jul-09-18-19-18, Region-based Extract phase Ended
+2025-Jul-09-18-19-18, Top5 Region GDP Average phase Started
+2025-Jul-09-18-19-18, Top5 Region GDP Average phase Ended
+2025-Jul-09-18-19-18, ETL Process Completed
+2025-Jul-09-18-19-51, ETL Process Started
+2025-Jul-09-18-19-51, Extract phase Started
+2025-Jul-09-18-19-51, Extract phase Ended
+2025-Jul-09-18-19-51, Transform phase Started
+2025-Jul-09-18-19-51, Transform phase Ended
+2025-Jul-09-18-19-51, JSON Load phase Started
+2025-Jul-09-18-19-51, JSON Load phase Ended
+2025-Jul-09-18-19-51, DB Load phase Started
+2025-Jul-09-18-19-51, DB Load phase Ended
+2025-Jul-09-18-19-51, SQL Query phase Started
+2025-Jul-09-18-19-51, SQL Query phase Ended
+2025-Jul-09-18-19-51, Region-based Extract phase Started
+2025-Jul-09-18-19-54, Region-based Extract phase Ended
+2025-Jul-09-18-19-54, Top5 Region GDP Average phase Started
+2025-Jul-09-18-19-54, Top5 Region GDP Average phase Ended
+2025-Jul-09-18-19-54, ETL Process Completed
+2025-Jul-09-18-20-03, ETL Process Started
+2025-Jul-09-18-20-03, Extract phase Started
+2025-Jul-09-18-20-06, Extract phase Ended
+2025-Jul-09-18-20-06, Transform phase Started
+2025-Jul-09-18-20-06, Transform phase Ended
+2025-Jul-09-18-20-06, Load phase Started
+2025-Jul-09-18-20-06, Load phase Ended
+2025-Jul-09-18-20-06, Displaying Output Started
+2025-Jul-09-18-20-06, Displaying Output Ended
+2025-Jul-09-18-20-06, ETL Process Completed
+2025-Jul-10-15-37-33, ETL Process Started
+2025-Jul-10-15-37-33, Extract phase Started
+2025-Jul-10-15-37-33, Extract phase Ended
+2025-Jul-10-15-37-33, Transform phase Started
+2025-Jul-10-15-37-33, Transform phase Ended
+2025-Jul-10-15-37-33, JSON Load phase Started
+2025-Jul-10-15-37-33, JSON Load phase Ended
+2025-Jul-10-15-37-33, DB Load phase Started
+2025-Jul-10-15-37-33, DB Load phase Ended
+2025-Jul-10-15-37-33, SQL Query phase Started
+2025-Jul-10-15-37-33, SQL Query phase Ended
+2025-Jul-10-15-37-33, Region-based Extract phase Started
+2025-Jul-10-15-37-36, Region-based Extract phase Ended
+2025-Jul-10-15-37-36, Top5 Region GDP Average phase Started
+2025-Jul-10-15-37-36, Top5 Region GDP Average phase Ended
+2025-Jul-10-15-37-36, ETL Process Completed
+2025-Jul-10-16-01-05, ETL Process Started
+2025-Jul-10-16-01-05, Extract phase Started
+2025-Jul-10-16-01-08, Extract phase Ended
+2025-Jul-10-16-01-08, Transform phase Started
+2025-Jul-10-16-01-08, Transform phase Ended
+2025-Jul-10-16-01-08, Load phase Started
+2025-Jul-10-16-01-08, Load phase Ended
+2025-Jul-10-16-01-08, Displaying Output Started
+2025-Jul-10-16-01-08, Displaying Output Ended
+2025-Jul-10-16-01-08, ETL Process Completed
+2025-Jul-10-16-12-27, ETL Process Started
+2025-Jul-10-16-12-27, Extract phase Started
+2025-Jul-10-16-12-28, Extract phase Ended
+2025-Jul-10-16-12-28, Transform phase Started
+2025-Jul-10-16-12-28, Transform phase Ended
+2025-Jul-10-16-12-28, JSON Load phase Started
+2025-Jul-10-16-12-28, JSON Load phase Ended
+2025-Jul-10-16-12-28, DB Load phase Started
+2025-Jul-10-16-12-28, DB Load phase Ended
+2025-Jul-10-16-12-28, SQL Query phase Started
+2025-Jul-10-16-12-28, SQL Query phase Ended
+2025-Jul-10-16-12-28, Region-based Extract phase Started
+2025-Jul-10-16-12-30, Region-based Extract phase Ended
+2025-Jul-10-16-12-30, Top5 Region GDP Average phase Started
+2025-Jul-10-16-12-30, Top5 Region GDP Average phase Ended
+2025-Jul-10-16-12-30, ETL Process Completed
+2025-Jul-10-16-28-50, ETL Process Started
+2025-Jul-10-16-28-50, Extract phase Started
+2025-Jul-10-16-28-53, Extract phase Ended
+2025-Jul-10-16-28-53, Transform phase Started
+2025-Jul-10-16-28-53, Transform phase Ended
+2025-Jul-10-16-28-53, Load phase Started
+2025-Jul-10-16-28-53, Load phase Ended
+2025-Jul-10-16-28-53, Displaying Output Started
+2025-Jul-10-16-28-53, Displaying Output Ended
+2025-Jul-10-16-28-53, ETL Process Completed
+2025-Jul-10-16-29-07, ETL Process Started
+2025-Jul-10-16-29-07, Extract phase Started
+2025-Jul-10-16-29-07, Extract phase Ended
+2025-Jul-10-16-29-07, Transform phase Started
+2025-Jul-10-16-29-07, Transform phase Ended
+2025-Jul-10-16-29-07, JSON Load phase Started
+2025-Jul-10-16-29-07, JSON Load phase Ended
+2025-Jul-10-16-29-07, DB Load phase Started
+2025-Jul-10-16-29-07, DB Load phase Ended
+2025-Jul-10-16-29-07, SQL Query phase Started
+2025-Jul-10-16-29-07, SQL Query phase Ended
+2025-Jul-10-16-29-07, Region-based Extract phase Started
+2025-Jul-10-16-29-10, Region-based Extract phase Ended
+2025-Jul-10-16-29-10, Top5 Region GDP Average phase Started
+2025-Jul-10-16-29-10, Top5 Region GDP Average phase Ended
+2025-Jul-10-16-29-10, ETL Process Completed
+2025-Jul-10-16-29-35, ETL Process Started
+2025-Jul-10-16-29-35, Extract phase Started
+2025-Jul-10-16-29-36, Extract phase Ended
+2025-Jul-10-16-29-36, Transform phase Started
+2025-Jul-10-16-29-36, Transform phase Ended
+2025-Jul-10-16-29-36, JSON Load phase Started
+2025-Jul-10-16-29-36, JSON Load phase Ended
+2025-Jul-10-16-29-36, DB Load phase Started
+2025-Jul-10-16-29-36, DB Load phase Ended
+2025-Jul-10-16-29-36, SQL Query phase Started
+2025-Jul-10-16-29-36, SQL Query phase Ended
+2025-Jul-10-16-29-36, Region-based Extract phase Started
+2025-Jul-10-16-29-38, Region-based Extract phase Ended
+2025-Jul-10-16-29-38, Top5 Region GDP Average phase Started
+2025-Jul-10-16-29-38, Top5 Region GDP Average phase Ended
+2025-Jul-10-16-29-38, ETL Process Completed
+2025-Jul-10-16-29-58, ETL Process Started
+2025-Jul-10-16-29-58, Extract phase Started
+2025-Jul-10-16-30-00, Extract phase Ended
+2025-Jul-10-16-30-00, Transform phase Started
+2025-Jul-10-16-30-00, Transform phase Ended
+2025-Jul-10-16-30-00, Load phase Started
+2025-Jul-10-16-30-00, Load phase Ended
+2025-Jul-10-16-30-00, Displaying Output Started
+2025-Jul-10-16-30-00, Displaying Output Ended
+2025-Jul-10-16-30-00, ETL Process Completed
+2025-Jul-10-16-30-49, ETL Process Started
+2025-Jul-10-16-30-49, Extract phase Started
+2025-Jul-10-16-30-50, Extract phase Ended
+2025-Jul-10-16-30-50, Transform phase Started
+2025-Jul-10-16-30-50, Transform phase Ended
+2025-Jul-10-16-30-50, JSON Load phase Started
+2025-Jul-10-16-30-50, JSON Load phase Ended
+2025-Jul-10-16-30-50, DB Load phase Started
+2025-Jul-10-16-30-50, DB Load phase Ended
+2025-Jul-10-16-30-50, SQL Query phase Started
+2025-Jul-10-16-30-50, SQL Query phase Ended
+2025-Jul-10-16-30-50, Region-based Extract phase Started
+2025-Jul-10-16-30-53, Region-based Extract phase Ended
+2025-Jul-10-16-30-53, Top5 Region GDP Average phase Started
+2025-Jul-10-16-30-53, Top5 Region GDP Average phase Ended
+2025-Jul-10-16-30-53, ETL Process Completed
+2025-Jul-10-16-33-32, ETL Process Started
+2025-Jul-10-16-33-32, Extract phase Started
+2025-Jul-10-16-33-34, Extract phase Ended
+2025-Jul-10-16-33-34, Transform phase Started
+2025-Jul-10-16-33-34, Transform phase Ended
+2025-Jul-10-16-33-34, Load phase Started
+2025-Jul-10-16-33-34, Load phase Ended
+2025-Jul-10-16-33-34, Displaying Output Started
+2025-Jul-10-16-33-34, Displaying Output Ended
+2025-Jul-10-16-33-34, ETL Process Completed
+2025-Jul-10-16-39-00, ETL Process Started
+2025-Jul-10-16-39-00, Extract phase Started
+2025-Jul-10-16-39-03, Extract phase Ended
+2025-Jul-10-16-39-03, Transform phase Started
+2025-Jul-10-16-39-03, Transform phase Ended
+2025-Jul-10-16-39-03, Load phase Started
+2025-Jul-10-16-39-03, Load phase Ended
+2025-Jul-10-16-39-03, Displaying Output Started
+2025-Jul-10-16-39-03, Displaying Output Ended
+2025-Jul-10-16-39-03, ETL Process Completed
+2025-Jul-10-16-41-30, ETL Process Started
+2025-Jul-10-16-41-30, Extract phase Started
+2025-Jul-10-16-41-31, Extract phase Ended
+2025-Jul-10-16-41-31, Transform phase Started
+2025-Jul-10-16-41-31, Transform phase Ended
+2025-Jul-10-16-41-31, JSON Load phase Started
+2025-Jul-10-16-41-31, JSON Load phase Ended
+2025-Jul-10-16-41-31, DB Load phase Started
+2025-Jul-10-16-41-31, DB Load phase Ended
+2025-Jul-10-16-41-31, SQL Query phase Started
+2025-Jul-10-16-41-31, SQL Query phase Ended
+2025-Jul-10-16-41-31, Region-based Extract phase Started
+2025-Jul-10-16-41-34, Region-based Extract phase Ended
+2025-Jul-10-16-41-34, Top5 Region GDP Average phase Started
+2025-Jul-10-16-41-34, Top5 Region GDP Average phase Ended
+2025-Jul-10-16-41-34, ETL Process Completed
+2025-Jul-10-16-46-19, ETL Process Started
+2025-Jul-10-16-46-19, Extract phase Started
+2025-Jul-10-16-46-20, Extract phase Ended
+2025-Jul-10-16-46-20, Transform phase Started
+2025-Jul-10-16-46-20, Transform phase Ended
+2025-Jul-10-16-46-20, JSON Load phase Started
+2025-Jul-10-16-46-20, JSON Load phase Ended
+2025-Jul-10-16-46-20, DB Load phase Started
+2025-Jul-10-16-46-20, DB Load phase Ended
+2025-Jul-10-16-46-20, SQL Query phase Started
+2025-Jul-10-16-46-20, SQL Query phase Ended
+2025-Jul-10-16-46-20, Region-based Extract phase Started
+2025-Jul-10-16-46-22, Region-based Extract phase Ended
+2025-Jul-10-16-46-22, Top5 Region GDP Average phase Started
+2025-Jul-10-16-46-22, Top5 Region GDP Average phase Ended
+2025-Jul-10-16-46-22, ETL Process Completed
+2025-Jul-10-16-47-02, ETL Process Started
+2025-Jul-10-16-47-02, Extract phase Started
+2025-Jul-10-16-47-05, Extract phase Ended
+2025-Jul-10-16-47-05, Transform phase Started
+2025-Jul-10-16-47-05, Transform phase Ended
+2025-Jul-10-16-47-05, Load phase Started
+2025-Jul-10-16-47-05, Load phase Ended
+2025-Jul-10-16-47-05, Displaying Output Started
+2025-Jul-10-16-47-05, Displaying Output Ended
+2025-Jul-10-16-47-05, ETL Process Completed
+2025-Jul-10-16-50-49, ETL Process Started
+2025-Jul-10-16-50-49, Extract phase Started
+2025-Jul-10-16-50-52, Extract phase Ended
+2025-Jul-10-16-50-52, Transform phase Started
+2025-Jul-10-16-50-52, Transform phase Ended
+2025-Jul-10-16-50-52, Load phase Started
+2025-Jul-10-16-50-52, Load phase Ended
+2025-Jul-10-16-50-52, Displaying Output Started
+2025-Jul-10-16-50-52, Displaying Output Ended
+2025-Jul-10-16-50-52, ETL Process Completed
+2025-Jul-10-16-50-58, ETL Process Started
+2025-Jul-10-16-50-58, Extract phase Started
+2025-Jul-10-16-50-58, Extract phase Ended
+2025-Jul-10-16-50-58, Transform phase Started
+2025-Jul-10-16-50-58, Transform phase Ended
+2025-Jul-10-16-50-58, JSON Load phase Started
+2025-Jul-10-16-50-58, JSON Load phase Ended
+2025-Jul-10-16-50-58, DB Load phase Started
+2025-Jul-10-16-50-58, DB Load phase Ended
+2025-Jul-10-16-50-58, SQL Query phase Started
+2025-Jul-10-16-50-58, SQL Query phase Ended
+2025-Jul-10-16-50-58, Region-based Extract phase Started
+2025-Jul-10-16-51-01, Region-based Extract phase Ended
+2025-Jul-10-16-51-01, Top5 Region GDP Average phase Started
+2025-Jul-10-16-51-01, Top5 Region GDP Average phase Ended
+2025-Jul-10-16-51-01, ETL Process Completed
+2025-Jul-10-16-51-12, ETL Process Started
+2025-Jul-10-16-51-12, Extract phase Started
+2025-Jul-10-16-51-15, Extract phase Ended
+2025-Jul-10-16-51-15, Transform phase Started
+2025-Jul-10-16-51-15, Transform phase Ended
+2025-Jul-10-16-51-15, Load phase Started
+2025-Jul-10-16-51-15, Load phase Ended
+2025-Jul-10-16-51-15, Displaying Output Started
+2025-Jul-10-16-51-15, Displaying Output Ended
+2025-Jul-10-16-51-15, ETL Process Completed
+2025-Jul-10-17-02-29, ETL Process Started
+2025-Jul-10-17-02-29, Extract phase Started
+2025-Jul-10-17-02-30, Extract phase Ended
+2025-Jul-10-17-02-30, Transform phase Started
+2025-Jul-10-17-02-30, Transform phase Ended
+2025-Jul-10-17-02-30, Region-based Extract phase Started
+2025-Jul-10-17-02-33, Region-based Extract phase Ended
+2025-Jul-10-17-02-33, Transform phase Started
+2025-Jul-10-17-02-33, Transform phase Ended
+2025-Jul-10-17-02-33, Load phase Started
+2025-Jul-10-17-02-33, Load phase Ended
+2025-Jul-10-17-02-33, Displaying Output Started
+2025-Jul-10-17-02-33, Displaying Output Ended
+2025-Jul-10-17-02-33, ETL Process Completed
+2025-Jul-10-17-02-44, ETL Process Started
+2025-Jul-10-17-02-44, Extract phase Started
+2025-Jul-10-17-02-44, Extract phase Ended
+2025-Jul-10-17-02-44, Transform phase Started
+2025-Jul-10-17-02-44, Transform phase Ended
+2025-Jul-10-17-02-44, JSON Load phase Started
+2025-Jul-10-17-02-44, JSON Load phase Ended
+2025-Jul-10-17-02-44, DB Load phase Started
+2025-Jul-10-17-02-44, DB Load phase Ended
+2025-Jul-10-17-02-44, SQL Query phase Started
+2025-Jul-10-17-02-44, SQL Query phase Ended
+2025-Jul-10-17-02-44, Region-based Extract phase Started
+2025-Jul-10-17-02-47, Region-based Extract phase Ended
+2025-Jul-10-17-02-47, Top5 Region GDP Average phase Started
+2025-Jul-10-17-02-47, Top5 Region GDP Average phase Ended
+2025-Jul-10-17-02-47, ETL Process Completed
+2025-Jul-10-17-03-03, ETL Process Started
+2025-Jul-10-17-03-03, Extract phase Started
+2025-Jul-10-17-03-06, Extract phase Ended
+2025-Jul-10-17-03-06, Transform phase Started
+2025-Jul-10-17-03-06, Transform phase Ended
+2025-Jul-10-17-03-06, Load phase Started
+2025-Jul-10-17-03-06, Load phase Ended
+2025-Jul-10-17-03-06, Displaying Output Started
+2025-Jul-10-17-03-06, Displaying Output Ended
+2025-Jul-10-17-03-06, ETL Process Completed
+2025-Jul-10-17-03-19, ETL Process Started
+2025-Jul-10-17-03-19, Extract phase Started
+2025-Jul-10-17-03-22, Extract phase Ended
+2025-Jul-10-17-03-22, Transform phase Started
+2025-Jul-10-17-03-22, Transform phase Ended
+2025-Jul-10-17-03-22, Load phase Started
+2025-Jul-10-17-03-22, Load phase Ended
+2025-Jul-10-17-03-22, Displaying Output Started
+2025-Jul-10-17-03-22, Displaying Output Ended
+2025-Jul-10-17-03-22, ETL Process Completed
+2025-Jul-10-17-04-01, ETL Process Started
+2025-Jul-10-17-04-01, Extract phase Started
+2025-Jul-10-17-04-01, Extract phase Ended
+2025-Jul-10-17-04-01, Transform phase Started
+2025-Jul-10-17-04-01, Transform phase Ended
+2025-Jul-10-17-04-01, JSON Load phase Started
+2025-Jul-10-17-04-01, JSON Load phase Ended
+2025-Jul-10-17-04-01, DB Load phase Started
+2025-Jul-10-17-04-01, DB Load phase Ended
+2025-Jul-10-17-04-01, SQL Query phase Started
+2025-Jul-10-17-04-01, SQL Query phase Ended
+2025-Jul-10-17-04-01, Region-based Extract phase Started
+2025-Jul-10-17-04-04, Region-based Extract phase Ended
+2025-Jul-10-17-04-04, Top5 Region GDP Average phase Started
+2025-Jul-10-17-04-04, Top5 Region GDP Average phase Ended
+2025-Jul-10-17-04-04, ETL Process Completed
+2025-Jul-10-17-05-33, ETL Process Started
+2025-Jul-10-17-05-33, Extract phase Started
+2025-Jul-10-17-05-34, Extract phase Ended
+2025-Jul-10-17-05-34, Transform phase Started
+2025-Jul-10-17-05-34, Transform phase Ended
+2025-Jul-10-17-05-34, Region-based Extract phase Started
+2025-Jul-10-17-05-37, Region-based Extract phase Ended
+2025-Jul-10-17-05-37, Transform phase Started
+2025-Jul-10-17-05-37, Transform phase Ended
+2025-Jul-10-17-05-37, Load phase Started
+2025-Jul-10-17-05-37, Load phase Ended
+2025-Jul-10-17-05-37, Displaying Output Started
+2025-Jul-10-17-05-37, Displaying Output Ended
+2025-Jul-10-17-05-37, ETL Process Completed
+2025-Jul-10-17-06-12, ETL Process Started
+2025-Jul-10-17-06-12, Extract phase Started
+2025-Jul-10-17-06-13, Extract phase Ended
+2025-Jul-10-17-06-13, Transform phase Started
+2025-Jul-10-17-06-13, Transform phase Ended
+2025-Jul-10-17-06-13, Region-based Extract phase Started
+2025-Jul-10-17-06-15, Region-based Extract phase Ended
+2025-Jul-10-17-06-15, Transform phase Started
+2025-Jul-10-17-06-15, Transform phase Ended
+2025-Jul-10-17-06-15, Load phase Started
+2025-Jul-10-17-06-15, Load phase Ended
+2025-Jul-10-17-06-15, Displaying Output Started
+2025-Jul-10-17-06-15, Displaying Output Ended
+2025-Jul-10-17-06-15, ETL Process Completed
+2025-Jul-10-17-06-27, ETL Process Started
+2025-Jul-10-17-06-27, Extract phase Started
+2025-Jul-10-17-06-27, Extract phase Ended
+2025-Jul-10-17-06-27, Transform phase Started
+2025-Jul-10-17-06-27, Transform phase Ended
+2025-Jul-10-17-06-27, JSON Load phase Started
+2025-Jul-10-17-06-27, JSON Load phase Ended
+2025-Jul-10-17-06-27, DB Load phase Started
+2025-Jul-10-17-06-27, DB Load phase Ended
+2025-Jul-10-17-06-27, SQL Query phase Started
+2025-Jul-10-17-06-27, SQL Query phase Ended
+2025-Jul-10-17-06-27, Region-based Extract phase Started
+2025-Jul-10-17-06-30, Region-based Extract phase Ended
+2025-Jul-10-17-06-30, Top5 Region GDP Average phase Started
+2025-Jul-10-17-06-30, Top5 Region GDP Average phase Ended
+2025-Jul-10-17-06-30, ETL Process Completed
+2025-Jul-10-17-08-09, ETL Process Started
+2025-Jul-10-17-08-09, Extract phase Started
+2025-Jul-10-17-08-10, Extract phase Ended
+2025-Jul-10-17-08-10, Transform phase Started
+2025-Jul-10-17-08-10, Transform phase Ended
+2025-Jul-10-17-08-10, Region-based Extract phase Started
+2025-Jul-10-17-08-12, Region-based Extract phase Ended
+2025-Jul-10-17-08-12, Transform phase Started
+2025-Jul-10-17-08-12, Transform phase Ended
+2025-Jul-10-17-08-12, Load phase Started
+2025-Jul-10-17-08-12, Load phase Ended
+2025-Jul-10-17-08-12, Displaying Output Started
+2025-Jul-10-17-08-12, Displaying Output Ended
+2025-Jul-10-17-08-12, ETL Process Completed
+2025-Jul-10-17-22-28, ETL Process Started
+2025-Jul-10-17-22-28, Extract phase Started
+2025-Jul-10-17-22-29, Extract phase Ended
+2025-Jul-10-17-22-29, Transform phase Started
+2025-Jul-10-17-22-29, Transform phase Ended
+2025-Jul-10-17-22-29, Region-based Extract phase Started
+2025-Jul-10-17-22-31, Region-based Extract phase Ended
+2025-Jul-10-17-22-31, Transform phase Started
+2025-Jul-10-17-22-31, Transform phase Ended
+2025-Jul-10-17-22-31, Load phase Started
+2025-Jul-10-17-22-31, Load phase Ended
+2025-Jul-10-17-22-31, Displaying Output Started
+2025-Jul-10-17-22-31, Displaying Output Ended
+2025-Jul-10-17-22-31, ETL Process Completed
+2025-Jul-10-17-43-04, ETL Process Started
+2025-Jul-10-17-43-04, Extract phase Started
+2025-Jul-10-17-43-04, Extract phase Ended
+2025-Jul-10-17-43-04, Transform phase Started
+2025-Jul-10-17-43-04, Transform phase Ended
+2025-Jul-10-17-43-04, Region-based Extract phase Started
+2025-Jul-10-17-43-07, Region-based Extract phase Ended
+2025-Jul-10-17-43-07, Transform phase Started
+2025-Jul-10-17-43-07, Transform phase Ended
+2025-Jul-10-17-43-07, Load phase Started
+2025-Jul-10-17-43-07, Load phase Ended
+2025-Jul-10-17-43-07, Displaying Output Started
+2025-Jul-10-17-43-07, Displaying Output Ended
+2025-Jul-10-17-43-07, ETL Process Completed
+2025-Jul-10-17-46-43, ETL Process Started
+2025-Jul-10-17-46-43, Extract phase Started
+2025-Jul-10-17-46-43, Extract phase Ended
+2025-Jul-10-17-46-43, Transform phase Started
+2025-Jul-10-17-46-43, Transform phase Ended
+2025-Jul-10-17-46-43, Region-based Extract phase Started
+2025-Jul-10-17-46-46, Region-based Extract phase Ended
+2025-Jul-10-17-46-46, Transform phase Started
+2025-Jul-10-17-46-46, Transform phase Ended
+2025-Jul-10-17-46-46, Load phase Started
+2025-Jul-10-17-46-46, Load phase Ended
+2025-Jul-10-17-46-46, Displaying Output Started
+2025-Jul-10-17-46-46, Displaying Output Ended
+2025-Jul-10-17-46-46, ETL Process Completed
+2025-Jul-10-17-48-45, ETL Process Started
+2025-Jul-10-17-48-45, Extract phase Started
+2025-Jul-10-17-48-46, Extract phase Ended
+2025-Jul-10-17-48-46, Transform phase Started
+2025-Jul-10-17-48-46, Transform phase Ended
+2025-Jul-10-17-48-46, JSON Load phase Started
+2025-Jul-10-17-48-46, JSON Load phase Ended
+2025-Jul-10-17-48-46, DB Load phase Started
+2025-Jul-10-17-48-46, DB Load phase Ended
+2025-Jul-10-17-48-46, SQL Query phase Started
+2025-Jul-10-17-48-46, SQL Query phase Ended
+2025-Jul-10-17-48-46, Region-based Extract phase Started
+2025-Jul-10-17-48-48, Region-based Extract phase Ended
+2025-Jul-10-17-48-48, Top5 Region GDP Average phase Started
+2025-Jul-10-17-48-48, Top5 Region GDP Average phase Ended
+2025-Jul-10-17-48-48, ETL Process Completed
+2025-Jul-10-18-03-26, ETL Process Started
+2025-Jul-10-18-03-26, Extract phase Started
+2025-Jul-10-18-03-26, Extract phase Ended
+2025-Jul-10-18-03-26, Transform phase Started
+2025-Jul-10-18-03-26, Transform phase Ended
+2025-Jul-10-18-03-26, JSON Load phase Started
+2025-Jul-10-18-03-26, JSON Load phase Ended
+2025-Jul-10-18-03-26, DB Load phase Started
+2025-Jul-10-18-03-26, DB Load phase Ended
+2025-Jul-10-18-03-26, SQL Query phase Started
+2025-Jul-10-18-03-26, SQL Query phase Ended
+2025-Jul-10-18-03-26, Region-based Extract phase Started
+2025-Jul-10-18-03-29, Region-based Extract phase Ended
+2025-Jul-10-18-03-29, Top5 Region GDP Average phase Started
+2025-Jul-10-18-03-29, Top5 Region GDP Average phase Ended
+2025-Jul-10-18-03-29, ETL Process Completed
+2025-Jul-10-20-56-17, ETL Process Started
+2025-Jul-10-20-56-17, Extract phase Started
+2025-Jul-10-20-56-18, Extract phase Ended
+2025-Jul-10-20-56-18, Transform phase Started
+2025-Jul-10-20-56-18, Transform phase Ended
+2025-Jul-10-20-56-18, JSON Load phase Started
+2025-Jul-10-20-56-18, JSON Load phase Ended
+2025-Jul-10-20-56-18, DB Load phase Started
+2025-Jul-10-20-56-18, DB Load phase Ended
+2025-Jul-10-20-56-18, SQL Query phase Started
+2025-Jul-10-20-56-18, SQL Query phase Ended
+2025-Jul-10-20-56-18, Region-based Extract phase Started
+2025-Jul-10-20-56-22, Region-based Extract phase Ended
+2025-Jul-10-20-56-22, Top5 Region GDP Average phase Started
+2025-Jul-10-20-56-22, Top5 Region GDP Average phase Ended
+2025-Jul-10-20-56-22, ETL Process Completed

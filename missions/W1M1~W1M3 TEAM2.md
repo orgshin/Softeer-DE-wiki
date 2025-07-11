@@ -19,14 +19,14 @@
         - 차량 무게가 늘어날수록 연비는 감소 -> 연비 최적화를 위해 경령화 기술이 중요할 듯
         - 제조사는 무게를 줄이면서도 성능을 유지하는 기술 개발이 필요해 보임
         
-        ![image.png](attachment:b9a70dc4-0f22-48b5-816a-d5ea8ffb6b45:image.png)
+        ![image.png](wt%20vs%20mpg.png)
         
     2. 마력 vs 배기량
         - 강한 양의 상관관계
         - 큰 배기량일수록 더 큰 출력이 나온다 -> 출력 설계 시, 배기량이 직접적인 영향을 줌
         - 출력을 중요하게 생각한다면 배기량 조정이 필요해 보임, 연비와의 트레이드오프를 고려해야함
         
-        ![image.png](attachment:fca47264-5ff3-4040-a05e-f6625fdbed2f:image.png)
+        ![image.png](disp%20vs%20hp.png)
 
 ------
 

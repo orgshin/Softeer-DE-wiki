@@ -27,6 +27,8 @@
 *   **스크립트**:
     *   **텍스트 정제**: URL, 멘션(@), 해시태그(#), 숫자, 구두점 및 특수 문자를 제거합니다. 모든 텍스트는 소문자로 변환됩니다.
         *   **토큰화 및 불용어 제거**: 텍스트를 단어 단위로 분리(토큰화)하고, 일반적인 영어 불용어와 영화 리뷰에 특화된 불용어(예: 'movie', 'film', 'jurassic', 'world' 등)를 제거합니다. 2글자 이하의 짧은 단어도 제거됩니다.
+     
+<img src="original_positive_wordcloud.png" alt="positive wordcloud" width="350"/> <img src="original_negative_wordcloud.png" alt="negative wordcloud" width="350"/>
 
 ### 2.3. TF-IDF 기반
 

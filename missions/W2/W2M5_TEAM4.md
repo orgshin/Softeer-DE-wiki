@@ -31,10 +31,10 @@
      
 <img src="original_positive_wordcloud.png" alt="positive wordcloud" width="400"/> <img src="original_negative_wordcloud.png" alt="negative wordcloud" width="400"/>
 
-### 2.3. TF-IDF 기반
+### 2.3. TF-IDF(Term Frequency-Inverse Document Frequency) 기반
 
 *   **방법론 개선**: 초기 프로젝트에서는 단순히 단어의 빈도수만을 기반으로 워드클라우드를 생성하여 감성 분석을 시도했습니다. 그러나 이 방식으로는 'ever', 'much', 'watch'과 같이 리뷰에 자주 등장하지만 실제 감성이나 영화의 특징을 나타내지 않는 의미 없는 단어들이 워드클라우드의 대부분을 차지하는 문제가 발생했습니다. 이러한 한계를 극복하고 리뷰의 핵심적인 내용을 더 정확하게 파악하기 위해, **TF-IDF(Term Frequency-Inverse Document Frequency)** 기반의 분석으로 방법론을 개선해 단순 빈도수로는 파악하기 어려운 핵심 키워드를 효과적으로 추출할 수 있게 했습니다.
-*   **목표**: TF-IDF(Term Frequency-Inverse Document Frequency)를 사용하여 각 단어의 중요도를 계산해 가치를 창출 할 수 있는 Word Cloud를 생성합니다.
+*   **목표**: TF-IDF를 사용하여 각 단어의 중요도를 계산해 가치를 창출 할 수 있는 Word Cloud를 생성합니다.
 *   **사용 도구**: `sklearn.feature_extraction.text.TfidfVectorizer` (TF-IDF 계산)
 *   **스크립트**: 
     *   `sentiment_wordcloud_analysis(TF-IDF).py`: 이 스크립트는 다음을 추가적으로 수행합니다:
